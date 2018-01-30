@@ -41,6 +41,6 @@ activate :syntax
 
 activate :ogp do |ogp|
   ogp.namespaces = {og: data.ogp.og}
-  ogp.base_url = 'http://partialconf.com/'
+  ogp.base_url = 'http://2017.partialconf.com/'
   ogp.blog = true
 end
